@@ -1,2 +1,2 @@
-# terraform-on-aws-codepipeline
-For the terraform project from udemy
+# terraform-iacdevops-with-aws-codepipeline
+terraform-iacdevops-with-aws-codepipeline
